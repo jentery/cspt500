@@ -31,7 +31,7 @@ navigation:
     url: /notes/
     desc: notes for the seminar
   - title: Outline
-    url: /outline/
+    url: /outline.html
     desc: outline for the seminar
   - title: PDF
     url: /cspt500.pdf
