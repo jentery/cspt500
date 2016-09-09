@@ -2,7 +2,7 @@
 layout: page
 title: Description
 permalink: description/
-subtitle: description
+subtitle: Description
 ---
 
-## Description 
+Coming soon
