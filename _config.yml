@@ -21,7 +21,7 @@ github_source: jentery
 
 # Pagination settings
 paginate: 5                           # number of posts to show per page
-paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf as is
+paginate_path: "/notes/page:num/"  # link scheme for articles, should be letf as is
 
 # Navigation settings
 # Used to define the navigation menu items
@@ -31,7 +31,7 @@ navigation:
     url: /notes/
     desc: notes for the seminar
   - title: Outline
-    url: /outline
+    url: /outline/
     desc: outline for the seminar
   - title: PDF
     url: /cspt500.pdf
