@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Description
-permalink: outline/description/
+permalink: description/
 subtitle: description
 ---
 
