@@ -2,7 +2,7 @@
 layout: page
 title: Assignments
 permalink: assignments/
-subtitle: Assignments
+subtitle: /Assignments
 ---
 
 Coming soon

@@ -2,7 +2,7 @@
 layout: page
 title: Aims
 permalink: aims/
-subtitle: Aims
+subtitle: /Aims
 ---
 
 Coming soon

@@ -2,7 +2,7 @@
 layout: page
 title: Acknowledgments
 permalink: acknowledgments/
-subtitle: Acknowledgments
+subtitle: /Acknowledgments
 ---
 
 Coming soon

@@ -2,7 +2,7 @@
 layout: page
 title: Policies
 permalink: policies/
-subtitle: Policies
+subtitle: /Policies
 ---
 
 Coming soon
