@@ -1,8 +1,7 @@
 <footer class="site-footer">
 
   <div class="site-copy">
-    <ul>
-    <li>{{ site.author }} ({{ site.time | date: '%Y' }})</li></ul>
+    {{ site.author }} ({{ site.time | date: '%Y' }})
   </div>
 
   <div class="site-links">
@@ -14,6 +13,8 @@
 
         <li><a target="_blank" href="https://github.com/{{ site.github_username }}/{{ site.github_source }}">Source Files</a></li>
 
+        <li><a target="_blank" href="https://github.com/jentery/cspt500/commits/master">Change History</a></li>
+
         <!-- {% if site.github_username %}
         <li><a target="_blank" rel="external" href="https://github.com/{{ site.github_username }}">Github</a></li>
         {% endif %}
@@ -24,11 +25,11 @@
       </ul>
     </div>
 
-    <!--<div class="site-source">
+    <div class="site-source">
       <ul>
-        <li><a target="_blank" href="https://github.com/{{ site.github_username }}/{{ site.github_source }}">Source Files</a></li>
+        <li><a href="http://www.uvic.ca/interdisciplinary/cspt/" target="_blank">CSPT at UVic</a></li>
       </ul>
-    </div-->
+    </div>
   </div>
 
 </footer>
