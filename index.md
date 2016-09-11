@@ -32,11 +32,20 @@ Case study: Boym, [*16-Second Art*](http://www.svetlanaboym.com/16secs.htm)
 
 <!-- Further reading: http://poeticstoday.dukejournals.org/content/26/4/665.abstract, http://www.cabinetmagazine.org/issues/28/boym2.php/ -->
 
-</div> 
+### Wk 4 | 4 Oct |  Things + Things 
+*Is there such a thing as unmediated things?*
+
+Read: Heidegger, ["The Thing"](http://www.jenteryteaches.com/noneshall/cspt/heideggerThing.pdf) (1971); Grosz, ["The Thing"](http://www.jenteryteaches.com/noneshall/cspt/groszThing.pdf) (2001)
+
+Case study: Gins + Arakawa, [*Procedural Architecture*](http://www.reversibledestiny.org/bioscleave-house-%E2%96%91%E2%96%91-lifespan-extending-villa/)
+
+<!-- Further reading: https://lucian.uchicago.edu/blogs/mediatheory/keywords/thing/, https://www.jstor.org/stable/1344258, http://townsendgroups.berkeley.edu/sites/default/files/appadurai_social_life_of_things_0.pdf, http://quod.lib.umich.edu/o/ohp/12527215.0001.001/1:14/--architecture-in-the-anthropocene-encounters-among-design?rgn=div1;view=fulltext -->
 
 <!--
-### Wk 4 | 4 Oct |  
 
+### Wk 5 | 11 Oct | Bodies + Embodiment 
+
+Read: Butler, Merleau-Ponty, ["Eye and Mind"](http://www.jenteryteaches.com/noneshall/cspt/merleauPontyEyeMind.pdf) (1961/93);
 
 Ephemerality + Indexicality 
 *How does ephemerality endure? How do media point?* 
@@ -44,6 +53,8 @@ Ephemerality + Indexicality
 Read: Chun, ["Did Somebody Say New Media?"](http://www.jenteryteaches.com/noneshall/cspt/chunNewMedia.pdf) (2006) and ["The Enduring Ephemeral"](http://www.jenteryteaches.com/noneshall/cspt/chunEnduringEphemeral.pdf) (2008); Doane, ["The Indexical and the Concept of Medium Specificity"](http://www.jenteryteaches.com/noneshall/cspt/doaneIndexical.pdf) (2007)
 
 Case study: Dean, [*As Yet Untitled*](http://ccca.concordia.ca/artists/work_detail.html?languagePref=en&mkey=72335&title=As+Yet+Untitled&artist=Max+Dean&link_id=10233) (1992-95)
+
+
 
  Archaeology + Specificity 
 *How to untie the knots of history? What of the particulars?* 
@@ -55,9 +66,9 @@ Case study: Maire, [*The Memory Cone*](http://julienmaire.ideenshop.net/docs/mem
 
 
 
-### Wk 5 | 11 Oct | Bodies + Abjection 
+ Bodies + Abjection 
 
-Read: Butler, ; Kristeva 
+Read:  ; Kristeva 
 
 Case study: 
 
@@ -79,11 +90,7 @@ Read: Moten, ; Haraway
 
 Case study: 
 
-### Wk 9 | 8 Nov | Things + Things 
-
-Read: Heidegger, ; Grosz, 
-
-Case study: 
+### Wk 9 | 8 Nov | 
 
 ### Wk 10 | 15 Nov | Entanglements + Perception
 
@@ -103,3 +110,4 @@ Read: ; Krauss,
 
 Case study: 
 -->
+</div>
