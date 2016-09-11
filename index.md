@@ -22,9 +22,9 @@ Read: Wendy Hui Kyong Chun, ["Did Somebody Say New Media?"](http://www.jenteryte
 Case study: Max Dean, [*As Yet Untitled*](http://ccca.concordia.ca/artists/work_detail.html?languagePref=en&mkey=72335&title=As+Yet+Untitled&artist=Max+Dean&link_id=10233) (1992-95)
 
 ### Week 3 | 27 September | Archaeology + Determinism
-*How do we untie the knots of history? How to attend to cultural definition?* 
+*How to untie the knots of history and culture?* 
 
-Read: Michel Foucault, "Introduction," "Archaeology and the History of Ideas," "The Original and the Regular," "Contradictions," and "Change and Transformations," from *The Archaeology of Knowledge* (1971/72); Raymond Williams, "The Technology and the Society" and "Effects of the Technology and Its Uses," from *Television* (1975)
+Read: Michel Foucault, ["Introduction," "Archaeology and the History of Ideas," "The Original and the Regular," "Contradictions," and "Change and Transformations,"](http://www.jenteryteaches.com/noneshall/cspt/foucaultArchaeology.pdf) from *The Archaeology of Knowledge* (1971/72); Raymond Williams, ["The Technology and the Society" and "Effects of the Technology and Its Uses,"](http://www.jenteryteaches.com/noneshall/cspt/williamsTelevision.pdf) from *Television* (1975)
 
 Case study: Julien Maire, [*The Memory Cone*](http://julienmaire.ideenshop.net/docs/memory_cone.pdf) (2010)
 </div> 
