@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 # Media and Materiality
 <div class="lead pretty-links">
 *A survey from Marx to Barad* 
@@ -13,26 +12,94 @@ Read: Benjamin, ["Theses on the Philosophy of History"](http://jenteryteaches.co
 
 Case study: Parker, [*Cold Dark Matter: An Exploded View*](http://www.tate.org.uk/art/artworks/parker-cold-dark-matter-an-exploded-view-t06949) (1991)
 
-### Wk 2 | 20 Sept | Ephemerality + Indexicality 
-*How does ephemerality endure? How do media point?* 
+<!-- Further reading: file:///Users/jenterysayers/Desktop/1771-4989-1-PB.pdf, https://lucian.uchicago.edu/blogs/mediatheory/keywords/materialmateriality/, https://lucian.uchicago.edu/blogs/mediatheory/keywords/mediation/, https://books.google.ca/books?id=Dn4QkO-RKv8C&dq, Lehman, Robert S. “Allegories of Rending: Killing Time with Walter Benjamin.” New Literary History 39, no. 2 (2008): 233-250. -->
 
-Read: Chun, ["Did Somebody Say New Media?"](http://www.jenteryteaches.com/noneshall/cspt/chunNewMedia.pdf) (2006) and ["The Enduring Ephemeral"](http://www.jenteryteaches.com/noneshall/cspt/chunEnduringEphemeral.pdf) (2008); Doane, ["The Indexical and the Concept of Medium Specificity"](http://www.jenteryteaches.com/noneshall/cspt/doaneIndexical.pdf) (2007)
-
-Case study: Dean, [*As Yet Untitled*](http://ccca.concordia.ca/artists/work_detail.html?languagePref=en&mkey=72335&title=As+Yet+Untitled&artist=Max+Dean&link_id=10233) (1992-95)
-
-### Wk 3 | 27 Sept | Archaeology + Determinism
-*How to untie the knots of history?* 
-
-Read: Foucault, from [*The Archaeology of Knowledge*](http://www.jenteryteaches.com/noneshall/cspt/foucaultArchaeology.pdf) (1971/72); Williams, from [*Television*](http://www.jenteryteaches.com/noneshall/cspt/williamsTelevision.pdf) (1975)
-
-Case study: Maire, [*The Memory Cone*](http://julienmaire.ideenshop.net/docs/memory_cone.pdf) (2010)
-
-### Wk 4 | 4 Oct | Machines + Fabrication  
+### Wk 2 | 20 Sept | Machines + Fabrication 
 *Where are work, labour, and action?* 
 
 Read: Marx, from [Notebook M](https://www.marxists.org/archive/marx/works/1857/grundrisse/ch01.htm) (1857) and the [Fragment on Machines](https://www.marxists.org/archive/marx/works/1857/grundrisse/ch13.htm#p690) (1858); Arendt, from [*The Human Condition*](http://www.jenteryteaches.com/noneshall/cspt/arentHumanCondition.pdf) (1958)
 
 Case study: [Molleindustria](http://www.molleindustria.org/) (2003-)
 
+<!-- Further reading: http://fuchs.uti.at/wp-content/uploads/Grundrisse.pdf, https://monoskop.org/File:Dyer-Witheford_Nick_Cyber-Marx_Cycles_and_Circuits_of_Struggle_in_High_Technology_Capitalism.pdf, http://davidharvey.org/reading-capital/ --> 
+
+### Wk 3 | 27 Sept | Style + Estrangement 
+*Why rhythms and not images or artifacts?* 
+
+Read: Simmel, from [*The Philosophy of Money*](http://www.jenteryteaches.com/noneshall/cspt/simmelMoney.pdf) (1900/78); Shklovsky, ["Art as Device"](http://www.jenteryteaches.com/noneshall/cspt/shklovskyDevice.pdf) (1917)
+
+Case study: Boym, [*16-Second Art*](http://www.svetlanaboym.com/16secs.htm)
+
+<!-- Further reading: http://poeticstoday.dukejournals.org/content/26/4/665.abstract, http://www.cabinetmagazine.org/issues/28/boym2.php/ -->
+
 </div> 
 
+<!--
+### Wk 4 | 4 Oct |  
+
+
+Ephemerality + Indexicality 
+*How does ephemerality endure? How do media point?* 
+
+Read: Chun, ["Did Somebody Say New Media?"](http://www.jenteryteaches.com/noneshall/cspt/chunNewMedia.pdf) (2006) and ["The Enduring Ephemeral"](http://www.jenteryteaches.com/noneshall/cspt/chunEnduringEphemeral.pdf) (2008); Doane, ["The Indexical and the Concept of Medium Specificity"](http://www.jenteryteaches.com/noneshall/cspt/doaneIndexical.pdf) (2007)
+
+Case study: Dean, [*As Yet Untitled*](http://ccca.concordia.ca/artists/work_detail.html?languagePref=en&mkey=72335&title=As+Yet+Untitled&artist=Max+Dean&link_id=10233) (1992-95)
+
+ Archaeology + Specificity 
+*How to untie the knots of history? What of the particulars?* 
+
+Read: Foucault, from [*The Archaeology of Knowledge*](http://www.jenteryteaches.com/noneshall/cspt/foucaultArchaeology.pdf) (1971/72); Williams, from [*Television*](http://www.jenteryteaches.com/noneshall/cspt/williamsTelevision.pdf) (1975)
+
+Case study: Maire, [*The Memory Cone*](http://julienmaire.ideenshop.net/docs/memory_cone.pdf) (2010)
+
+
+
+
+### Wk 5 | 11 Oct | Bodies + Abjection 
+
+Read: Butler, ; Kristeva 
+
+Case study: 
+
+### Wk 6 | 18 Oct | Eros + Pleasure 
+
+Read: Lorde, ; Barthes, 
+
+Case study: 
+
+### Wk 7 | 25 Oct | Writing + Texture 
+
+Read: Cixous, ; Sedgwick, 
+
+Case study: 
+
+### Wk 8 | 1 Nov | Breaks + Situations 
+
+Read: Moten, ; Haraway 
+
+Case study: 
+
+### Wk 9 | 8 Nov | Things + Things 
+
+Read: Heidegger, ; Grosz, 
+
+Case study: 
+
+### Wk 10 | 15 Nov | Entanglements + Perception
+
+Read: Barad, ; Merleau-Ponty,
+
+Case study: 
+
+### Wk 11 | 22 Nov | Spheres + ?
+
+Read: Debray, ; Simmel, 
+
+Case study: 
+
+### Wk 12 | 29 Nov |  + Reinvented 
+
+Read: ; Krauss, 
+
+Case study: 
+-->
