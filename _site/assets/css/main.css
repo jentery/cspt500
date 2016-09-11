@@ -433,7 +433,7 @@ pre {
 
 blockquote {
   margin: 1rem 0 1rem 1rem;
-  font-size: .85em;
+  font-size: 1rem;
   line-height: 1.6; }
 
 @media (min-width: 768px) {
