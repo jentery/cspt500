@@ -3,7 +3,6 @@ layout: default
 ---
 
 # Media and Materiality
-
 <div class="lead pretty-links">
 *A survey from Marx to Barad* 
 
@@ -22,10 +21,18 @@ Read: Chun, ["Did Somebody Say New Media?"](http://www.jenteryteaches.com/nonesh
 Case study: Dean, [*As Yet Untitled*](http://ccca.concordia.ca/artists/work_detail.html?languagePref=en&mkey=72335&title=As+Yet+Untitled&artist=Max+Dean&link_id=10233) (1992-95)
 
 ### Wk 3 | 27 Sept | Archaeology + Determinism
-*How to untie the knots of history and culture?* 
+*How to untie the knots of history?* 
 
 Read: Foucault, from [*The Archaeology of Knowledge*](http://www.jenteryteaches.com/noneshall/cspt/foucaultArchaeology.pdf) (1971/72); Williams, from [*Television*](http://www.jenteryteaches.com/noneshall/cspt/williamsTelevision.pdf) (1975)
 
 Case study: Maire, [*The Memory Cone*](http://julienmaire.ideenshop.net/docs/memory_cone.pdf) (2010)
+
+### Wk 4 | 4 Oct | Machines + Fabrication  
+*Where are work, labour, and action?* 
+
+Read: Marx, from [Notebook M](https://www.marxists.org/archive/marx/works/1857/grundrisse/ch01.htm) (1857) and the [Fragment on Machines](https://www.marxists.org/archive/marx/works/1857/grundrisse/ch13.htm#p690) (1858); Arendt, from [*The Human Condition*](http://www.jenteryteaches.com/noneshall/cspt/arentHumanCondition.pdf) (1958)
+
+Case study: [Molleindustria](http://www.molleindustria.org/)
+
 </div> 
 
