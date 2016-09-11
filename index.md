@@ -32,36 +32,44 @@ Case study: Boym, [*16-Second Art*](http://www.svetlanaboym.com/16secs.htm)
 
 <!-- Further reading: http://poeticstoday.dukejournals.org/content/26/4/665.abstract, http://www.cabinetmagazine.org/issues/28/boym2.php/ -->
 
-### Wk 4 | 4 Oct |  Things + Things 
+### Wk 4 | 4 Oct | Archaeology + Specificity 
+*Whether and how to untie the knots?* 
+
+Read: Foucault, from [*The Archaeology of Knowledge*](http://www.jenteryteaches.com/noneshall/cspt/foucaultArchaeology.pdf) (1971/72); Williams, from [*Television*](http://www.jenteryteaches.com/noneshall/cspt/williamsTelevision.pdf) (1975)
+
+Case study: Maire, [*The Memory Cone*](http://julienmaire.ideenshop.net/docs/memory_cone.pdf) (2010)
+
+<!-- Further reading: http://lchc.ucsd.edu/MCA/Mail/xmcamail.2012_11.dir/pdfm9zBHlJ6w8.pdf -->
+
+### Wk 5 | 11 Oct | Things + Things 
 *Is there such a thing as unmediated things?*
 
-Read: Heidegger, ["The Thing"](http://www.jenteryteaches.com/noneshall/cspt/heideggerThing.pdf) (1971); Grosz, ["The Thing"](http://www.jenteryteaches.com/noneshall/cspt/groszThing.pdf) (2001)
+Read: Grosz, ["The Thing"](http://www.jenteryteaches.com/noneshall/cspt/groszThing.pdf) (2001); Brown, ["Thing Theory"](http://www.jenteryteaches.com/noneshall/cspt/brownBillThing.pdf) (2001); Appadurai, ["The Thing Itself"](http://www.jenteryteaches.com/noneshall/cspt/appaduraiThing.pdf) (2006)
 
-Case study: Gins + Arakawa, [*Procedural Architecture*](http://www.reversibledestiny.org/bioscleave-house-%E2%96%91%E2%96%91-lifespan-extending-villa/)
+Case study: Arakawa and Gins, [*Procedural Architecture*](http://www.reversibledestiny.org/bioscleave-house-%E2%96%91%E2%96%91-lifespan-extending-villa/)
+
+Due: Portfolio (at least three response papers)
 
 <!-- Further reading: https://lucian.uchicago.edu/blogs/mediatheory/keywords/thing/, https://www.jstor.org/stable/1344258, http://townsendgroups.berkeley.edu/sites/default/files/appadurai_social_life_of_things_0.pdf, http://quod.lib.umich.edu/o/ohp/12527215.0001.001/1:14/--architecture-in-the-anthropocene-encounters-among-design?rgn=div1;view=fulltext -->
 
-<!--
-
-### Wk 5 | 11 Oct | Bodies + Embodiment 
-
-Read: Butler, Merleau-Ponty, ["Eye and Mind"](http://www.jenteryteaches.com/noneshall/cspt/merleauPontyEyeMind.pdf) (1961/93);
-
-Ephemerality + Indexicality 
+### Wk 6 | 18 Oct | Ephemerality + Indexicality 
 *How does ephemerality endure? How do media point?* 
 
 Read: Chun, ["Did Somebody Say New Media?"](http://www.jenteryteaches.com/noneshall/cspt/chunNewMedia.pdf) (2006) and ["The Enduring Ephemeral"](http://www.jenteryteaches.com/noneshall/cspt/chunEnduringEphemeral.pdf) (2008); Doane, ["The Indexical and the Concept of Medium Specificity"](http://www.jenteryteaches.com/noneshall/cspt/doaneIndexical.pdf) (2007)
 
 Case study: Dean, [*As Yet Untitled*](http://ccca.concordia.ca/artists/work_detail.html?languagePref=en&mkey=72335&title=As+Yet+Untitled&artist=Max+Dean&link_id=10233) (1992-95)
 
+<!--Bodies + Embodiment 
+
+Read: Butler, from [*Bodies that Matter*](http://www.jenteryteaches.com/noneshall/cspt/butlerBodiesThatMatter.pdf) (); Merleau-Ponty, ["Eye and Mind"](http://www.jenteryteaches.com/noneshall/cspt/merleauPontyEyeMind.pdf) (1961/93)
+
+Case study: 
 
 
- Archaeology + Specificity 
-*How to untie the knots of history? What of the particulars?* 
 
-Read: Foucault, from [*The Archaeology of Knowledge*](http://www.jenteryteaches.com/noneshall/cspt/foucaultArchaeology.pdf) (1971/72); Williams, from [*Television*](http://www.jenteryteaches.com/noneshall/cspt/williamsTelevision.pdf) (1975)
 
-Case study: Maire, [*The Memory Cone*](http://julienmaire.ideenshop.net/docs/memory_cone.pdf) (2010)
+
+
 
 
 
@@ -72,7 +80,7 @@ Read:  ; Kristeva
 
 Case study: 
 
-### Wk 6 | 18 Oct | Eros + Pleasure 
+ Eros + Pleasure 
 
 Read: Lorde, ; Barthes, 
 
@@ -94,13 +102,13 @@ Case study:
 
 ### Wk 10 | 15 Nov | Entanglements + Perception
 
-Read: Barad, ; Merleau-Ponty,
+Read: Barad, 
 
 Case study: 
 
 ### Wk 11 | 22 Nov | Spheres + ?
 
-Read: Debray, ; Simmel, 
+Read: Debray,
 
 Case study: 
 
