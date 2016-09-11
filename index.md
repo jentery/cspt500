@@ -24,8 +24,8 @@ Case study: Dean, [*As Yet Untitled*](http://ccca.concordia.ca/artists/work_deta
 ### Week 3 | 27 September | Archaeology + Determinism
 *How to untie the knots of history and culture?* 
 
-Read: Foucault, from [*The Archaeology of Knowledge* (1971/72)](http://www.jenteryteaches.com/noneshall/cspt/foucaultArchaeology.pdf) ; Williams, from [*Television*](http://www.jenteryteaches.com/noneshall/cspt/williamsTelevision.pdf) (1975)
+Read: Foucault, from [*The Archaeology of Knowledge*](http://www.jenteryteaches.com/noneshall/cspt/foucaultArchaeology.pdf) (1971/72); Williams, from [*Television*](http://www.jenteryteaches.com/noneshall/cspt/williamsTelevision.pdf) (1975)
 
 Case study: Maire, [*The Memory Cone*](http://julienmaire.ideenshop.net/docs/memory_cone.pdf) (2010)
-</div --> 
+</div> 
 
