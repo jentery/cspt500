@@ -17,7 +17,7 @@ Case study: Parker, [*Cold Dark Matter: An Exploded View*](http://www.tate.org.u
 ### Wk 2 | 20 Sept | Machines + Fabrication 
 *Where are work, labour, and action?* 
 
-Read: Marx, from [Notebook M](https://www.marxists.org/archive/marx/works/1857/grundrisse/ch01.htm) (1857) and the [Fragment on Machines](https://www.marxists.org/archive/marx/works/1857/grundrisse/ch13.htm#p690) (1858); Arendt, from [*The Human Condition*](http://www.jenteryteaches.com/noneshall/cspt/arentHumanCondition.pdf) (1958)
+Read: Marx, from [Notebook M](https://www.marxists.org/archive/marx/works/1857/grundrisse/ch01.htm) (1857) and the [Fragment on Machines](https://www.marxists.org/archive/marx/works/1857/grundrisse/ch13.htm#p690) (1858); Arendt, from [*The Human Condition*](http://www.jenteryteaches.com/noneshall/cspt/arendtHumanCondition.pdf) (1958)
 
 Case study: [Molleindustria](http://www.molleindustria.org/) (2003-)
 
