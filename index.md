@@ -4,9 +4,11 @@ layout: default
 
 # Media and Materiality
 
+<div class="lead pretty-links">
+
 *From Marx to Barad, how are media defined? Under what assumptions about materiality? To what effects on interpretation?* 
 
-## Week 1 | 13 September | Motivations for the Seminar 
+### Week 1 | 13 September | Motivations for the Seminar 
 
 Why a seminar on media and materiality, now? What is the relationship between this seminar and historical materialism? Realism? Media archaeology?  
 
@@ -14,7 +16,7 @@ Read: Walter Benjamin, ["On the Concept of History"/"Theses on the Philosophy of
 
 Case study: Cornelia Parker, ["Cold Dark Matter: An Exploded View" (1991)](http://www.tate.org.uk/art/artworks/parker-cold-dark-matter-an-exploded-view-t06949)
 
-## Week 2 | 20 September | Ephemerality + Indexicality 
+### Week 2 | 20 September | Ephemerality + Indexicality 
 
 How does ephemerality endure? What do media point to? How does memory differ from storage? From inscription? How do all three manifest through archives? 
 
@@ -22,5 +24,5 @@ Read: Wendy Hui Kyong Chun, ["Did Somebody Say New Media?" (2006)](http://www.je
 
 Case study: Max Dean, ["As Yet Untitled"](http://ccca.concordia.ca/artists/work_detail.html?languagePref=en&mkey=72335&title=As+Yet+Untitled&artist=Max+Dean&link_id=10233) (1992-95)
 
-
+</div>
 
