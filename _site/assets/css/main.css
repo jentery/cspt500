@@ -68,8 +68,7 @@ ul ol {
   margin-bottom: 0; }
 
 blockquote {
-  margin: 0 0 1rem; 
-  font-size: 1rem;}
+  margin: 0 0 1rem; }
 
 a {
   color: #4072AF;
@@ -434,7 +433,7 @@ pre {
 
 blockquote {
   margin: 1rem 0 1rem 1rem;
-  font-size: 1rem;
+  font-size: .85em;
   line-height: 1.6; }
 
 @media (min-width: 768px) {
