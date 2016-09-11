@@ -32,7 +32,7 @@ Case study: Maire, [*The Memory Cone*](http://julienmaire.ideenshop.net/docs/mem
 
 Read: Marx, from [Notebook M](https://www.marxists.org/archive/marx/works/1857/grundrisse/ch01.htm) (1857) and the [Fragment on Machines](https://www.marxists.org/archive/marx/works/1857/grundrisse/ch13.htm#p690) (1858); Arendt, from [*The Human Condition*](http://www.jenteryteaches.com/noneshall/cspt/arentHumanCondition.pdf) (1958)
 
-Case study: [Molleindustria](http://www.molleindustria.org/)
+Case study: [Molleindustria](http://www.molleindustria.org/) (2003-)
 
 </div> 
 
