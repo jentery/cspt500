@@ -68,7 +68,8 @@ ul ol {
   margin-bottom: 0; }
 
 blockquote {
-  margin: 0 0 1rem; }
+  margin: 0 0 1rem; 
+  font-size: 1rem;}
 
 a {
   color: #4072AF;
