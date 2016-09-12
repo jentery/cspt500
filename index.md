@@ -28,7 +28,7 @@ Case study: [Molleindustria](http://www.molleindustria.org/) (2003-)
 
 Read: Simmel, from [*The Philosophy of Money*](http://www.jenteryteaches.com/noneshall/cspt/simmelMoney.pdf) (1900/78); Shklovsky, ["Art as Device"](http://www.jenteryteaches.com/noneshall/cspt/shklovskyDevice.pdf) (1917)
 
-Case study: Boym, [*16-Second Art*](http://www.svetlanaboym.com/16secs.htm)
+Case study: Boym, [*16-Second Art*](http://www.svetlanaboym.com/16secs.htm) (n.d.)
 
 <!-- Further reading: http://poeticstoday.dukejournals.org/content/26/4/665.abstract, http://www.cabinetmagazine.org/issues/28/boym2.php/ -->
 
