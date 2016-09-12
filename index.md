@@ -37,7 +37,7 @@ Case study: Boym, [*16-Second Art*](http://www.svetlanaboym.com/16secs.htm)
 
 Read: Merleau-Ponty, ["Eye and Mind"](http://www.jenteryteaches.com/noneshall/cspt/merleauPontyEyeMind.pdf) (1961/93); Barthes, ["From Work to Text"](http://www.jenteryteaches.com/noneshall/cspt/barthesText.pdf) (1971/77)
 
-Case study: Grigar and Moulthrop, [*Pathfinders*](http://dtc-wsuv.org/wp/pathfinders/)
+Case study: Grigar and Moulthrop, [*Pathfinders*](http://dtc-wsuv.org/wp/pathfinders/) (2013-)
 
 <!-- Further reading: http://www.jstor.org/stable/10.5325/jspecphil.26.2.0361?seq=1#page_scan_tab_contents, http://cs.brown.edu/courses/cs137/readings/Gibson-AFF.pdf --> 
 
@@ -53,7 +53,7 @@ Case study: Maire, [*The Memory Cone*](http://julienmaire.ideenshop.net/docs/mem
 ### Wk 6 | 18 Oct | Eros + Power
 *Suppressed or shared experiences? Through which mechanisms?*
 
-Read: Cixous, ["The Laugh of the Medusa"](http://www.jenteryteaches.com/noneshall/cspt/cixousMedusa.pdf) (1976); Lorde, ["Uses of the Erotic"](http://www.jenteryteaches.com/noneshall/cspt/lordeErotic.pdf) (1978/84) and ["The Mater's Tools Will Never Dismantle the Master's House"](http://www.jenteryteaches.com/noneshall/cspt/cixousMedusa.pdf) (1979/81)
+Read: Cixous, ["The Laugh of the Medusa"](http://www.jenteryteaches.com/noneshall/cspt/cixousMedusa.pdf) (1975/76); Lorde, ["Uses of the Erotic"](http://www.jenteryteaches.com/noneshall/cspt/lordeErotic.pdf) (1978/84) and ["The Mater's Tools Will Never Dismantle the Master's House"](http://www.jenteryteaches.com/noneshall/cspt/lordeTools.pdf) (1979/81)
 
 Case study: cárdenas, ["Shifting Futures"](http://scalar.usc.edu/works/shifting-futures-micha-cardenas/index) (2015)
 
@@ -93,7 +93,7 @@ Case study: Dean, [*As Yet Untitled*](http://ccca.concordia.ca/artists/work_deta
 
 Read: Grosz, ["The Thing"](http://www.jenteryteaches.com/noneshall/cspt/groszThing.pdf) (2001); Brown, ["Thing Theory"](http://www.jenteryteaches.com/noneshall/cspt/brownBillThing.pdf) (2001); Appadurai, ["The Thing Itself"](http://www.jenteryteaches.com/noneshall/cspt/appaduraiThing.pdf) (2006)
 
-Case study: Arakawa and Gins, [*Procedural Architecture*](http://www.reversibledestiny.org/bioscleave-house-%E2%96%91%E2%96%91-lifespan-extending-villa/)
+Case study: Arakawa and Gins, [*Procedural Architecture*](http://www.reversibledestiny.org/bioscleave-house-%E2%96%91%E2%96%91-lifespan-extending-villa/) (1994-2008)
 
 <!-- Further reading: https://lucian.uchicago.edu/blogs/mediatheory/keywords/thing/, https://www.jstor.org/stable/1344258, http://townsendgroups.berkeley.edu/sites/default/files/appadurai_social_life_of_things_0.pdf, http://quod.lib.umich.edu/o/ohp/12527215.0001.001/1:14/--architecture-in-the-anthropocene-encounters-among-design?rgn=div1;view=fulltext -->
 
@@ -102,7 +102,7 @@ Case study: Arakawa and Gins, [*Procedural Architecture*](http://www.reversibled
 
 Read: Debray, from [*Media Manifestos*](http://www.jenteryteaches.com/noneshall/cspt/debrayID.pdf) (1994/96); Krauss, from [*A Voyage on the North Sea*](http://www.jenteryteaches.com/noneshall/cspt/kraussVoyage.pdf) (1999)
 
-Case study: Lee, [*Transformers: The Premake*](https://vimeo.com/94101046)
+Case study: Lee, [*Transformers: The Premake*](https://vimeo.com/94101046) (2014)
 
 <!-- Further reading: Sterne on formats; Higgins, intermedia --> 
 
