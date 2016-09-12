@@ -107,6 +107,7 @@ Case study: Lee, [*Transformers: The Premake*](https://vimeo.com/94101046)
 <!-- Further reading: Sterne on formats; Higgins, intermedia --> 
 
 ### Wk 12 | 29 Nov |  Situations + Entanglements
+*How is matter also agency? How is it conjoined with discourse?*
 
 Read: Haraway, ["Situated Knowledges"](http://www.jenteryteaches.com/noneshall/cspt/harawaySituated.pdf) (1988); Barad, ["Posthumanist Performativity"](http://www.jenteryteaches.com/noneshall/cspt/baradPP.pdf) (2003)
 
