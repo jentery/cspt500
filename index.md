@@ -112,4 +112,6 @@ Case study: Lee, [*Transformers: The Premake*](https://vimeo.com/94101046) (2014
 Read: Haraway, ["Situated Knowledges"](http://www.jenteryteaches.com/noneshall/cspt/harawaySituated.pdf) (1988); Barad, ["Posthumanist Performativity"](http://www.jenteryteaches.com/noneshall/cspt/baradPP.pdf) (2003)
 
 Due: Portfolio (three more response papers)
+
+*The final portfolio (seven response papers plus a brief statement) is due by 19 December.*
 </div>
