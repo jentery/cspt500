@@ -62,7 +62,7 @@ The presentations will usually occur at the beginning of seminar meetings. At th
 
 You will receive the mark for your presentation, with feedback, during the week you conduct it. 
 
-## Facilitation (10% of your final grade) 
+## Facilitation (10% of final grade) 
 
 Finally, I'm asking you to facilitate a seminar discussion with me. Your facilitation should include: 
 
