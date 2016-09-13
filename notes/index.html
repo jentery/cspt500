@@ -5,7 +5,6 @@ subtitle: Media and Materiality
 desc: Notes for the seminar
 ---
 
-<p>Notes will be added throughout the seminar, with at least one entry dedicated to each meeting.</p>
 {% if paginator.page == 1 %}
   {% for post in site.posts limit: 2 %}
 <link rel="prerender" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
@@ -13,6 +12,7 @@ desc: Notes for the seminar
 {% endif %}
 
 <ul class="post-list">
+<p>Notes will be added throughout the seminar, with at least one entry dedicated to each meeting.</p>
   {% for post in paginator.posts %}
   <li class="post">
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
