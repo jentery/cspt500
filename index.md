@@ -71,7 +71,7 @@ Case study: Bachzetsis, [*Private*](http://www.alexandrabachzetsis.com/index.php
 <!-- Further reading: http://eng5010.pbworks.com/f/ButlerBodiesThatMatterEx.pdf -->
 
 ### Wk 8 | 1 Nov | Breaks + Textures  
-*What makes a cut or affords a feeling?
+*What makes a cut or affords a feeling?*
 
 Read: Moten, from [*In the Break*](http://www.jenteryteaches.com/noneshall/cspt/motenBreak.pdf) (2003); Sedgwick, from [*Touching Feeling*](http://www.jenteryteaches.com/noneshall/cspt/sedgwickTF.pdf) (2003)
 
