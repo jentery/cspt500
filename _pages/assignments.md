@@ -5,52 +5,76 @@ permalink: assignments/
 subtitle: /Assignments
 ---
 
-This seminar is based on a portfolio model of research, where you write consistently throughout the term and revise your work at the end. It also includes two brief presentations.  
+This seminar is based on a portfolio model of research, where you write throughout the term and revise your work at the end. It also includes a brief presentation and a facilitation of seminar discussion. Below is a description of the assignments and how they will be assessed. Please note that the requirements are subject to minor changes as the seminar progresses. If I do make a change to any of the assignments, then I will notify you in writing and well in advance.
 
-## Portfolio
+The portfolio is essential for passing the course. Failure to submit at least five response papers will result in a failing N grade (calculated as a 0 for your GPA). Please also note: I do not post marks outside my office, and I do not use plagiarism detection software.
 
-I am asking you to develop a portfolio of eight response papers over the course of the seminar. Each response paper should: 
+## Portfolio (three marks, each 25% of final grade)
+
+I am asking you to develop a portfolio of seven response papers over the course of the seminar. Each response paper should: 
  
 * Be somewhere between 450- and 500-words-long, 
-* Use a citation style of your choice (MLA, APA, Chicago/Turabian, Harvard), 
-* Be polished, with concise treatments of critical theory, 
+* Use a citation style of your choice (MLA, APA, Chicago/Turabian, Harvard),
+* Engage with two works by different authors, 
+* Be polished and focused, with concise treatments of critical theory,  
 * Avoid frequent quotation and instead use clearly deliberate selections of textual evidence, 
-* Articulate the relevance of the assigned reading in your own words,   
-* Refrain from a significant amount of comparing and contrasting and instead stress why the relations (or differences and similarities) between two or more works matter (e.g., the social or cultural implications of differences, the assumptions motivating arguments, the effects of a certain logics or definitions, or the tendencies of particular styles or methodologies), and 
-* Be submitted electronically. (I'll provide details during seminar.)
+* Briefly explain the relevance of the two works in your own words (including a short summary of key arguments, where necessary),   
+* Refrain from much comparison between the two selected works (e.g., "While X argues, Y asserts..."), 
+* Instead of comparison, stress why the differences or overlaps between the two selected works matter (e.g., the social or cultural implications of their differences, the common assumptions motivating their arguments, the effects of a shared logics or definitions, or the tendencies of similar styles or methodologies), 
+* Where possible/applicable, articulate the two assigned works with a keyword, which allows you to concentrate on particular dimensions of the authors' writing, 
+* Not make an original argument or claim, but rather stage a conversation between the two works and, where helpful, include some important questions that emerge from their dialogue (consider these questions futures lines of inquiry for you or others), 
+* Be submitted electronically, *prior* to the seminar meeting dedicated to the texts at hand (only one paper may be submitted each week), and 
+* Be revised at least once, with track changes (or the like) enabled. 
 
-Six of your eight response papers should draw on work by a pair of assigned authors and address the following questions without much, if any, reference to other materials/sources: 
->How are media defined in this instance? Under what assumptions about matter and materiality? And to what effects on interpretation? 
+Six of these seven response papers should be about assigned texts. I will assess three of them during the middle of term (between 18 October and 25 October; 25% of your final grade), and three more during the last week of classes (between 29 November and 2 December; 25% of your final grade). 
 
-Here, "this instance" implies the pairing of two authors. When addressing these questions, you are welcome to privilege a particular work over others assigned for the week, especially if you find one of the works more compelling or it's difficult to synthesize two or more works in 450-500 words. That said, each of these six response papers should somehow account for a pair of authors and put their work into dialogue where possible. None of the papers should be dedicated to one person or focus on a single work, and each of them should be submitted *prior* to the seminar meeting dedicated to the texts at hand. 
+Your seventh response paper is due by *19 December*. It should address a specific gap in the course outline by identifying two authors who were not included but whose work contributes to our discussions. For this particular paper, I recommend selecting one publication (or excerpt) by each of your two authors. This way, you don't tackle too much for a short response. Of course, this particular paper requires research beyond the assigned reading. However, I will dedicate discussion to your observations of absence throughout the seminar. 
 
-One of your eight response papers should address the following questions: 
+Since we have twelve seminar meetings but only six response papers due between 13 September and 29 November, you do not need to write a paper for each seminar meeting. However, I encourage you to take careful notes as you read and bring these notes with you to meetings.  
 
->In terms of assigned texts and/or discussion, what is a specific gap in the course outline for "Media and Materiality"? Who are two authors who are not included here but whose work contributes to our discussions? How do they define media, under what assumptions about matter and materiality, and to what effects on interpretation? 
+By *19 December*, you should submit revised drafts of your first six response papers, together with your seventh response paper and a brief statement (250-500 words) defining both "media" and "materiality" with parenthetical references to authors we've read this term. Together, your brief statement and seven response papers will comprise your portfolio (25% of your final grade). For the brief statement, you may want to read a few entries in Raymond Williams's *Keywords* as well as entries in projects inspired by Williams (e.g., *Keywords for American Cultural Studies*, *New Keywords: A Revised Vocabulary of Culture and Society,* and The Chicago School of Media Theory's keywords project). 
 
-When responding to this particular set of questions, I recommend selecting one publication (or excerpt) by each of your two authors. This way, you don't tackle too much for a short response. Of course, this particular paper requires research beyond the assigned reading. However, I will dedicate discussion to your observations throughout the seminar, and I will make time for us to consider absences from this course outline. This paper may be submitted at any point before *29 November 2016*.
+I will assess your response papers, with feedback, according to this rubric: 
 
-Additionally, one of your eight response papers should consist of:  
+* 90-100 = A+: Papers in this range are especially sophisticated and perceptive pieces of work that make an original contribution to scholarly thinking about a particular topic. With elaboration, they could be published in an academic journal.
+* 85-89 = A: Papers in this range are perceptive and original, but may require substantial revision for public circulation. They could act as core material for a conference presentation.
+* 80-84 = A-: Papers in this range are adequate at the graduate level with regard to the research, presentation, and quality of content.
+* 77-79 = B+: Papers in this range have significant flaws in some areas, but they still meet graduate standards.
+* 73-76 = B: Papers in this range are marginally acceptable at the graduate level.
 
->A keyword entry (see Raymond Williams) on "media" in the writing style of an assigned author.  
+## Presentation (15% of your final grade)
 
-Yes, I'm asking you to imitate an author's style, but I'm also asking you to follow the parameters of the keyword genre. The motivation for this exercise is to experiment with the intersection of expression and convention while also familiarizing yourself with a style other than your own (and its relation to scholarship). For this particular paper, you may select any of our assigned authors, and I recommend reading a few of Williams's keyword entries. You may also want to read additional work by your selected author, together with entries in keywords projects inspired by Williams (e.g., *Keywords for American Cultural Studies* and *New Keywords: A Revised Vocabulary of Culture and Society*). I encourage you to have fun with this one, and please let me know if you have any questions or concerns about it. This paper may be submitted at any point before *29 November 2016*.
+I am also asking you to give a brief presentation during the term. Your presentation should: 
 
-Please note: you may submit no more than one response paper per week. With eight papers and twelve seminar meetings, this means you do not need to write a paper for every seminar meeting. It also gives you some flexibility, allowing you to decide which paper to write when.  
+* Provide a brief interpretation (no more than three minutes) of an assigned reading, including how it approaches media and materiality, together with your response to the reading (e.g., its assumptions, where it's persuasive, and what questions it raises),
+* Include one (and only one) question you have for the seminar about the text at hand (we will write this question on the board for reference throughout the seminar), and 
+* Not include slides (to reduce your workload and also treat the seminar more like a conversation). 
 
-The portfolio is due by *13 December 2016*. It should include revised versions of your eight response papers plus a brief cover letter, for which I will provide instruction in late October or early November. For revisions, I recommend using something like track changes to visualize or document your edits. 
+The presentations will usually occur at the beginning of seminar. At the beginning of the seminar, I'll ask you to sign up for a date and text. Presentations will be assessed according to this rubric:   
 
-I will assess your portfolio, with feedback, three times during the term. For details, see [Assessment](assessment.html).
+* 90-100 = A+: Presentations in this range are incredibly compelling and even memorable. They prompt others to ask questions, and they spark conversation about a concrete topic emerging from the texts at hand. They do not visibly rely much (if at all) on reading a prepared text. Their structure is tangible and easy to follow.
+* 85-89 = A: Presentations in this range demonstrate what was learned from the reading and provide clear evidence of that learning. They prompt others to ask questions, and they spark conversation about a concrete topic emerging from the seminar. They do not visibly rely much (if at all) on reading a prepared text. Their structure is tangible and easy to follow.
+* 80-84 = A-: Presentations in this range demonstrate what was learned from the reading and provide recognizable evidence of that learning. They prompt others to ask questions. They do not visibly rely much (if at all) on reading a prepared text. Their structure is tangible and easy to follow.
+* 77-79 = B+: Presentations in this range demonstrate what was learned from the reading and provide recognizable evidence of that learning. They do not visibly rely much (if at all) on reading a prepared text.
+* 73-76 = B: Presentations in this range demonstrate what was learned from the reading and provide recognizable evidence of that learning.
 
-## Presentations 
+You will receive the mark for your presentation, with feedback, during the week you conduct it. 
 
-I am also asking you to give two brief presentations during the term. Each presentation should: 
+## Facilitation (10% of your final grade) 
 
-* Provide a brief interpretation (no more than three minutes) of an assigned reading, including how it articulates media and materiality, together with your response to the reading (e.g., its assumptions, where it's persuasive, and what questions it raises),
-* Include one (and only one) question you have for the seminar about the text at hand (we will write this question on the board for reference throughout the seminar), 
-* Not include slides (if only to reduce your workload and treat the seminar more like a conversation), and 
-* Involve your active role in facilitating seminar discussion after your brief interpretation of an assigned text. 
+Finally, I'm asking you to facilitate a seminar discussion with me. Your facilitation should include: 
 
-During each seminar meeting, two of you will present, and we will schedule the presentations during our first meeting. The presentations will usually occur during the first hour of seminar.   
+* Your active role in conversation about all texts at hand, prompting and addressing questions to keep the discussion going,
+* Frequent attention to the text at hand, including pointing people to specific remarks and arguments in the works we're studying,  
+* Building upon the presentation(s) given by others at the beginning of seminar, and
+* Taking notes and the like on the board or via the projector, if you wish. 
 
-For the two presentations, you will receive a single mark. For details, see see [Assessment](assessment.html).
+You should not facilitate on the same day you present. At the beginning of the seminar, I'll ask you to sign up for a date. Presentations will be assessed according to this rubric:
+
+* 90-100 = A+: Facilitations in this range prompt others to ask questions, and they maintain conversation about concrete topics emerging from the texts at hand. They are anchored in the texts at hand, and they rely as much on listening as they do on speaking. They document the conversation (e.g., on the board) as it emerges. 
+* 85-89 = A: Facilitations in this range prompt others to ask questions, and they maintain conversation about concrete topics emerging from the texts at hand. They are anchored in the texts at hand, and they rely as much on listening as they do on speaking. 
+* 80-84 = A-: Facilitations in this range prompt others to ask questions, and they maintain conversation about concrete topics emerging from the texts at hand. They address the texts at hand, and they rely as much on listening as they do on speaking. 
+* 77-79 = B+: Facilitations in this range prompt others to ask questions, and they maintain conversation about general topics emerging from the texts at hand. They address the texts at hand.
+* 73-76 = B: Facilitations in this range prompt others to ask questions. They address the texts at hand.
+
+You will receive the mark for your facilitation, with feedback, during the week you conduct it. 
