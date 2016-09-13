@@ -71,7 +71,7 @@ Case study: Bachzetsis, [*Private*](http://www.alexandrabachzetsis.com/index.php
 <!-- Further reading: http://eng5010.pbworks.com/f/ButlerBodiesThatMatterEx.pdf -->
 
 ### Wk 8 | 1 Nov | Breaks + Textures  
-*What produces a cut or feeling? What does it afford?*
+*What makes a cut or affords a feeling?
 
 Read: Moten, from [*In the Break*](http://www.jenteryteaches.com/noneshall/cspt/motenBreak.pdf) (2003); Sedgwick, from [*Touching Feeling*](http://www.jenteryteaches.com/noneshall/cspt/sedgwickTF.pdf) (2003)
 
@@ -98,7 +98,7 @@ Case study: Arakawa and Gins, [*Procedural Architecture*](http://www.reversibled
 <!-- Further reading: https://lucian.uchicago.edu/blogs/mediatheory/keywords/thing/, https://www.jstor.org/stable/1344258, http://townsendgroups.berkeley.edu/sites/default/files/appadurai_social_life_of_things_0.pdf, http://quod.lib.umich.edu/o/ohp/12527215.0001.001/1:14/--architecture-in-the-anthropocene-encounters-among-design?rgn=div1;view=fulltext -->
 
 ### Wk 11 | 22 Nov | Systems + Differences 
-*What happens between layers and sequences?* 
+*What's between layers and sequences?* 
 
 Read: Debray, from [*Media Manifestos*](http://www.jenteryteaches.com/noneshall/cspt/debrayID.pdf) (1994/96); Krauss, from [*A Voyage on the North Sea*](http://www.jenteryteaches.com/noneshall/cspt/kraussVoyage.pdf) (1999)
 
@@ -107,7 +107,7 @@ Case study: Lee, [*Transformers: The Premake*](https://vimeo.com/94101046) (2014
 <!-- Further reading: Sterne on formats; Higgins, intermedia --> 
 
 ### Wk 12 | 29 Nov |  Situations + Entanglements
-*How is matter also agency? How is it conjoined with discourse?*
+*How are matter and discourse also agency?*
 
 Read: Haraway, ["Situated Knowledges"](http://www.jenteryteaches.com/noneshall/cspt/harawaySituated.pdf) (1988); Barad, ["Posthumanist Performativity"](http://www.jenteryteaches.com/noneshall/cspt/baradPP.pdf) (2003)
 
