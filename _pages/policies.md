@@ -8,10 +8,10 @@ subtitle: /Policies
 Below are the policies for the seminar.
 
 ## Late Submissions
-Barring exceptional circumstances, I will not accept your portfolios after the due date. Belated entries in your notebook will negatively influence your final mark. Since entries are intended to build upon each other, I recommend that you do not fall behind on them. Also, I will not comment on entries submitted after the due date. Of note, the presentation can only occur during the final meeting of the semester.
+Barring exceptional circumstances, I will not accept your response papers after the due date. Belated papers will negatively influence your final mark. Also, I will not comment on entries submitted after the due date. 
 
 ## Absences
-Weekly attendance in graduate courses is expected. If you must be absent from a course for a serious reason, then you should contact me before the missed class and explain why you will not be in attendance. Cases of continuous, unexplained absence will result in a penalty to your grade or your ineligibility to complete the course. Attendance and active participation in discussions and workshops are part of fulfilling the course requirements. I will notify the Graduate Adviser if you have three or more unwarranted absences.
+Weekly attendance in graduate courses is expected. If you must be absent from a course for a serious reason, then you should contact me before the missed class. Cases of continuous, unexplained absence will result in a penalty to your grade or your ineligibility to complete the course. Attendance and active participation in discussions and workshops are part of fulfilling the course requirements. 
 
 ## Laptops
 Laptops are welcome in (but not required for) the seminar.
