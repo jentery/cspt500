@@ -44,7 +44,7 @@ Case study: Grigar and Moulthrop, [*Pathfinders*](http://dtc-wsuv.org/wp/pathfin
 ### Wk 5 | 11 Oct | Description + Practice 
 *Whether and how to untie the knots?* 
 
-Read: Foucault, from [*The Archaeology of Knowledge*](http://www.jenteryteaches.com/noneshall/cspt/foucaultArchaeology.pdf) (1971/72); Williams, from [*Television*](http://www.jenteryteaches.com/noneshall/cspt/williamsTelevision.pdf) (1975)
+Read: Foucault, from [*The Archaeology of Knowledge*](http://www.jenteryteaches.com/noneshall/cspt/foucaultArchaeology.pdf) (1969/72); Williams, from [*Television*](http://www.jenteryteaches.com/noneshall/cspt/williamsTelevision.pdf) (1975)
 
 Case study: Maire, [*The Memory Cone*](http://julienmaire.ideenshop.net/docs/memory_cone.pdf) (2010)
 
